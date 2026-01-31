@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/Lumi-Plus/main/assets/urso.png" width="180" alt="Lumi Logo" />
-
+  <img src="https://raw.githubusercontent.com/Gitmarimartins/LumiPlus/main/assets/logolumiplus.png" width="180" 
   <br /><br />
-
-  <h1 style="color: #62CDFA; font-family: sans-serif;"> Lumi+ </h1>
   <h3 style="color: #777;">Plataforma Digital Adaptativa Centrada na Criança</h3>
 
   <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-FFB703?style=for-the-badge&logo=trello&logoColor=black" />
@@ -25,15 +22,8 @@
 
   <br /><br />
   
-  <a href="https://sites.google.com/view/lumiplus">
-    <img src="https://raw.githubusercontent.com/seu-usuario/Lumi-Plus/main/assets/banner_site.png" width="80%" style="border-radius: 10px; border: 4px solid #62CDFA;" />
-  </a>
-
 </div>
 
-<br /><br />
-
----
 
 <div align="center">
   <p style="color: #999; font-size: 0.8em;">
@@ -41,7 +31,3 @@
     <i>Projeto de código fechado. Todos os direitos reservados.</i>
   </p>
   
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin" />
-  </a>
-</div>
